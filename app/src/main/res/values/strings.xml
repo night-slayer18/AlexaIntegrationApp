@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlexaApp</string>
+    <string name="what_is">What is</string>
+    <string name="submit">SUBMIT</string>
+</resources>
